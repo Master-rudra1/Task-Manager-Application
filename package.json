@@ -1,0 +1,19 @@
+{
+  "name": "task-manager-feature-b",
+  "version": "1.0.0",
+  "description": "Task Lifecycle CRUD, Subtasks & File Attachments - Feature Set B (PES1UG24CS146 - Dhadhal Rudra)",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test tests/"
+  },
+  "keywords": [
+    "task-manager",
+    "crud",
+    "subtasks",
+    "attachments",
+    "software-engineering"
+  ],
+  "author": "Dhadhal Rudra (PES1UG24CS146)",
+  "license": "ISC"
+}
